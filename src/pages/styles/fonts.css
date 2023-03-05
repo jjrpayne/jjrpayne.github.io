@@ -1,0 +1,13 @@
+    @font-face {
+        font-family: 'G-OTF Shin Go Pro B';
+        font-style: normal;
+        font-weight: normal;
+        src: local('G-OTF Shin Go Pro B'), url(./fonts/G-OTFShinGoProB.woff) format('woff');
+    }
+
+    @font-face {
+        font-family: 'G-OTF Shin Go Pro L';
+        font-style: normal;
+        font-weight: normal;
+        src: local('G-OTF Shin Go Pro L'), url(./fonts/G-OTFShinGoProL.woff) format('woff');
+    }

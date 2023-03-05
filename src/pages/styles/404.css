@@ -1,0 +1,23 @@
+.centred {
+	padding-top: 100px;
+	min-height: 600px;
+}
+
+.message-404 {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.bottom-message {
+	font-size: 25px;
+}
+
+h1 {
+	font-size: 180px;
+}
+
+h2 {
+	font-size: 80px;
+}
