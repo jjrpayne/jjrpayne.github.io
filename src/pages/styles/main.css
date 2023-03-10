@@ -64,6 +64,9 @@ b {
 .bg-pastelgreen {
 	background-color: #add7bc;
 }
+.bg-pastelred {
+	background-color :#ffabab
+}
 .bg-white {
 	background-color: #ffffff;
 }
@@ -129,8 +132,14 @@ nav a:hover {
 	font-size: 32px;
 }
 
-.padded-row {
-	padding: 15px;
+.top-bottom-padding {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.side-padding {
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 .contact-link:link, .contact-link:visited {
