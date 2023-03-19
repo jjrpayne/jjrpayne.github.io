@@ -88,6 +88,16 @@ export default function Home() {
 									</div>
 								</div>
 							</div>
+							<div className="row top-bottom-padding">
+								<div className="col-md-6">
+								<img className="img-responsive lazy" loading="lazy" width="90%" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1679263668/spacedash-screenshot_ke4eu7.png" alt="screenshot of Space Dash game"/>									
+								</div>
+								<div className="col-md-6 bg-white">
+									<h2 className="text-jjgreen"><b>Space Dash</b></h2>
+									<p>A cross-platform game developed using Java and the libGDX framework.</p>
+									<p>Links: <a href="https://github.com/jjrpayne/spacedash" target="_blank">GitHub</a>, <a href= "https://spacedash.netlify.app/"target="_blank">Web App</a>, <a href= "https://play.google.com/store/apps/details?id=com.gamehut.spacedash"target="_blank">Google Play</a></p>
+								</div>
+							</div>
 						</div>
 					</div>
 					<div className="index-section" id="experience">
