@@ -107,14 +107,33 @@ export default function Home() {
 					<div className="index-section" id="experience">
 						<div className="container">
 							<div className="row top-bottom-padding">
-								experience: this section is under construction
+								<div className="col-md-12 bg-pastelred">
+									<h1><b>Work Experience</b></h1>
+								</div>
+							</div>
+							<div className="row top-bottom-padding">
+								<div className="col-md-5 bg-white">
+									<h2 className="text-jjred"><b>AOT Technologies</b></h2>
+									<p>This section is under construction.</p>
+								</div>
+								<div className="col-md-5 offset-1 bg-white">
+									<h2 className="text-jjred"><b>Salyx Medical</b></h2>
+									<p>This section is under construction</p>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div className="index-section contact-section" id="contact">
 						<div className="container">
 							<div className="row top-bottom-padding">
-								contact me :this section is under construction
+								<div className="col-md-12 bg-pastelpurple">
+									<h1><b>Contact Me</b></h1>
+								</div>
+							</div>
+							<div className="row top-bottom-padding">
+								<div className="col-md-12 bg-white">
+									<p>This section is under construction.</p>
+								</div>
 							</div>
 						</div>
 					</div> 
