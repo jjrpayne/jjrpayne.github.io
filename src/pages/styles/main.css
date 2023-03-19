@@ -46,16 +46,22 @@ b {
 }
 
 .bg-jjblue {
-	background-color: #5397c8;
+	background-color: #a9d2ef;
 }
 .bg-jjgreen {
-	background-color: #9ccdaa;
+	background-color: #92c9a5;
 }
 .text-jjblue {
-	color: #5397c8;
+	color: #a9d2ef;
 }
 .text-jjgreen {
-	color: #9ccdaa;
+	color: #92c9a5;
+}
+.text-jjred {
+	color: #ff8f85;
+}
+.text-jjpurple {
+	color: #e08fda;
 }
 
 .bg-pastelblue {
@@ -65,7 +71,10 @@ b {
 	background-color: #add7bc;
 }
 .bg-pastelred {
-	background-color :#ffabab
+	background-color: #ffa69e;
+}
+.bg-pastelpurple {
+	background-color: #e9afe4;
 }
 .bg-white {
 	background-color: #ffffff;
