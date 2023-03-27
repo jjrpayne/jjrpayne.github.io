@@ -64,6 +64,15 @@ b {
 	color: #e08fda;
 }
 
+.card-jj {
+	padding: 10px;
+	margin: 5px;
+}
+
+.card-image {
+	margin: 5px;
+}
+
 .bg-pastelblue {
 	background-color: #beddf3;
 }
@@ -168,11 +177,6 @@ nav a:hover {
 	0% { transform: translate(0, 0px); }
 	50% { transform: translate(0, 15px); }
 	100% { transform: translate(0, -0px); }
-}
-
-.card-jj {
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
-	border-radius: 30px !important;
 }
 
 .carousel-inner {
