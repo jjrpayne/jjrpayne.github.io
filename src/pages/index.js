@@ -18,32 +18,25 @@ export default function Home() {
 					<div className="index-section" id="about">
 						<div className="container">
 							<div className="row">
+								<div className="col-md-12">
+									<div className="card-jj bg-pastelblue">
+										<h1><b>About Me</b></h1>
+									</div>
+								</div>
+							</div>
+							<div className="row">
 								<div className="col-md-6">
-									<div className="row">
-										<div className="col-md-12">
-											<div className="card-jj bg-pastelblue">
-												<h1><b>About Me</b></h1>
-											</div>
-										</div>
-									</div>
-									<div className="row">
-										<div className="col-md-12">
-											<br />
-										</div>
-									</div>
-									<div className="row">
-										<div className="col-md-12">
-											<div className="card-jj bg-white">
-												<p>Hello! My name is John Payne.</p>
-												<p>I graduated from UVic's computer science program in 2021 and since then I've worked as a full-stack developer on web and mobile projects.</p>
-												<p>Outside of work, some of my hobbies include riding my bike, going on nature walks, and playing the guitar and piano.</p>
-												<p>To read more about my work experience and some of my favourite personal projects, feel free to keep scrolling!</p>
-											</div>
-										</div>
+									<div className="card-jj bg-white">
+										<p>Hello! My name is John Payne.</p>
+										<p>I graduated from UVic's computer science program in 2021 and since then I've worked as a full-stack developer on web and mobile projects.</p>
+										<p>Outside of work, some of my hobbies include riding my bike, going on nature walks, and playing the guitar and piano.</p>
+										<p>To read more about my work experience and some of my favourite personal projects, feel free to keep scrolling!</p>
 									</div>
 								</div>
 								<div className="col-md-6">
-									<img className="img-responsive lazy card-image" loading="lazy" width="100%" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1677881036/me_3_pabr2a.jpg" alt="photo of John Payne"/>
+									<div className="card-image">
+										<img className="img-responsive lazy" loading="lazy" width="100%" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1677881036/me_3_pabr2a.jpg" alt="photo of John Payne"/>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -72,8 +65,8 @@ export default function Home() {
 									</div>
 								</div>
 								<div className="col-md-6">
-									<div card-image>
-										<img className="img-responsive lazy card-image" loading="lazy" width="100%" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1679883315/stock_warning_screenshot_wodv4u.png" alt="output of endpoint implemened for hatchways hackathon"/>
+									<div className="card-image">
+										<img className="img-responsive lazy" loading="lazy" width="100%" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1679883315/stock_warning_screenshot_wodv4u.png" alt="output of endpoint implemened for hatchways hackathon"/>
 									</div>
 								</div>
 							</div>
@@ -120,13 +113,26 @@ export default function Home() {
 								<div className="col-md-6">
 									<div className="card-jj bg-white">
 										<h2 className="text-jjred"><b>AOT Technologies</b></h2>
-										<p>This section is under construction.</p>
+										<b>Full-Stack Developer</b>
+										<ul>
+											<li>Actively participated in design and development of full-stack applications(frontend and backend)</li>
+											<li>Performed requirements analysis, unit testing, software integration, and support</li>
+											<li>Designed and coded relational database objects and integrated with web applications</li>
+											<li>Built code modules, unit tests and deployed to test environments</li>
+										</ul>
 									</div>
 								</div>
 								<div className="col-md-6">
 									<div className="card-jj bg-white">
-										<h2 className="text-jjred"><b>Salyx Medical</b></h2>
-										<p>This section is under construction</p>
+										<h2 className="text-jjred"><b>Salyx Medical / Ergonomyx Technologies</b></h2>
+										<b>Full-Stack Developer</b> (started as co-op student, later promoted to full-time employee)
+										<ul>
+											<li>Developed a full-stack web application, creating software that monitors vital health information</li>
+											<li>Created a promotional website for the company (visit <a href="https://salyxmedical.com" target="_blank">salyxmedical.com</a>)</li>
+											<li>Created and maintaned database, serving the full-stack web application</li>
+											<li>Led new co-op students, introducing them to software architecture and helping them collaborate on company projects</li>
+											<li>Languages and tools used: NodeJS, ExpressJS, Python, Flask, PostgreSQL, Git</li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -144,7 +150,11 @@ export default function Home() {
 							<div className="row top-bottom-padding">
 								<div className="col-md-12">
 									<div className="card-jj bg-white">
-										<p>This section is under construction.</p>
+										<p>Please contact me if you have any questions.</p>
+										<ul>
+											<li>Email: <a href="mailto:jjrpayne@hotmail.com">jjrpayne@hotmail.com</a></li>
+											<li>Links: <a href="https://github.com/jjrpayne" target="_blank">GitHub</a>, <a href="https://linkedin.com/in/jjrpayne" target="_blank">LinkedIn</a></li>
+										</ul>
 									</div>
 								</div>
 							</div>
