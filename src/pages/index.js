@@ -35,7 +35,7 @@ export default function Home() {
 								</div>
 								<div className="col-md-6">
 									<div className="card-image">
-										<img className="img-responsive lazy" loading="lazy" width="100%" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1677881036/me_3_pabr2a.jpg" alt="photo of John Payne"/>
+										<img className="img-responsive lazy" loading="lazy" width="100%" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1677881036/me_3_pabr2a.jpg" alt="John Payne"/>
 									</div>
 								</div>
 							</div>
@@ -73,14 +73,14 @@ export default function Home() {
 							<div className="row top-bottom-padding">
 								<div className="col-md-6">
 									<div className="card-image">
-										<img className="img-responsive lazy" width="100%" loading="lazy" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1678490653/Screenshot_from_2023-03-10_15-21-03_efbotb.png" alt="Screenshot of Random Episode Picker App"/>
+										<img className="img-responsive lazy" width="100%" loading="lazy" src="https://res.cloudinary.com/di2iadfzv/image/upload/v1681666422/random-episode-picker-screenshot_ss4he5.png" alt="Screenshot of Random Episode Picker App"/>
 									</div>
 								</div>
 								<div className="col-md-6">
 									<div className="card-jj bg-white">
 										<h2 className="text-jjgreen"><b>Random Episode Picker</b></h2>
 										<p>Web application for selecting a random episode of a given TV show. Developed with a React Frontend and a NodeJS pass-through service for the OMDb API.</p>
-										<p>Links: <a href="https://github.com/jjrpayne/random-episode-picker" target="_blank">GitHub</a>, <a href= "https://random-episode-picker.netlify.app/"target="_blank">Web App</a></p>
+										<p>Links: <a href="https://github.com/jjrpayne/random-episode-picker" target="_blank" rel="noreferrer">GitHub</a>, <a href= "https://random-episode-picker.netlify.app/"target="_blank" rel="noreferrer">Web App</a></p>
 									</div>
 								</div>
 							</div>
@@ -89,7 +89,7 @@ export default function Home() {
 									<div className="card-jj bg-white">
 										<h2 className="text-jjgreen"><b>Space Dash</b></h2>
 										<p>A cross-platform game developed using Java and the libGDX framework.</p>
-										<p>Links: <a href="https://github.com/jjrpayne/spacedash" target="_blank">GitHub</a>, <a href= "https://spacedash.netlify.app/"target="_blank">Web App</a>, <a href= "https://play.google.com/store/apps/details?id=com.gamehut.spacedash"target="_blank">Google Play</a></p>									
+										<p>Links: <a href="https://github.com/jjrpayne/spacedash" target="_blank" rel="noreferrer">GitHub</a>, <a href= "https://spacedash.netlify.app/"target="_blank" rel="noreferrer">Web App</a>, <a href= "https://play.google.com/store/apps/details?id=com.gamehut.spacedash"target="_blank" rel="noreferrer">Google Play</a></p>									
 									</div>
 								</div>
 								<div className="col-md-6">
@@ -128,7 +128,7 @@ export default function Home() {
 										<b>Full-Stack Developer</b> (started as co-op student, later promoted to full-time employee)
 										<ul>
 											<li>Developed a full-stack web application, creating software that monitors vital health information</li>
-											<li>Created a promotional website for the company (visit <a href="https://salyxmedical.com" target="_blank">salyxmedical.com</a>)</li>
+											<li>Created a promotional website for the company (visit <a href="https://salyxmedical.com" target="_blank" rel="noreferrer">salyxmedical.com</a>)</li>
 											<li>Created and maintaned database, serving the full-stack web application</li>
 											<li>Led new co-op students, introducing them to software architecture and helping them collaborate on company projects</li>
 											<li>Languages and tools used: NodeJS, ExpressJS, Python, Flask, PostgreSQL, Git</li>
@@ -153,7 +153,7 @@ export default function Home() {
 										<p>Please contact me if you have any questions.</p>
 										<ul>
 											<li>Email: <a href="mailto:jjrpayne@hotmail.com">jjrpayne@hotmail.com</a></li>
-											<li>Links: <a href="https://github.com/jjrpayne" target="_blank">GitHub</a>, <a href="https://linkedin.com/in/jjrpayne" target="_blank">LinkedIn</a></li>
+											<li>Links: <a href="https://github.com/jjrpayne" target="_blank" rel="noreferrer">GitHub</a>, <a href="https://linkedin.com/in/jjrpayne" target="_blank" rel="noreferrer">LinkedIn</a></li>
 										</ul>
 									</div>
 								</div>
